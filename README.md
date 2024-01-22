@@ -8,6 +8,7 @@ press button 'Use this template' and press 'create a new repo'
 Setup base on vite.config:
 
 base: "/[REPO_NAME]/"
+
 In package.json:
 
 "name": "[REPO_NAME]",
